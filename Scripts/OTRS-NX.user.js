@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name        OTRS-NX
 // @namespace   http://www.transmar.fi
+// @updateURL   https://github.com/transmartoblar/OTRS-NX-helper/raw/master/Scripts/OTRS-NX.user.js
+// @version     0.1
 // @include     http://kundservice.transmar.fi/otrs/*
 // @include     http://fp.transmar.fi/FPNX/*
 // @grant       GM_setValue
